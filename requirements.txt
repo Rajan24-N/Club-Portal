@@ -1,7 +1,7 @@
 ﻿asgiref==3.4.1
 cycler==0.10.0
 djangify==1.0.0
-Django==3.2.15
+Django==3.2.16
 et-xmlfile==1.0.1
 gunicorn==20.1.0
 jdcal==1.4.1
